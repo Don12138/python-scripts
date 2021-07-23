@@ -1,0 +1,4 @@
+一些python脚本，用来简化生活中的一些操作
+cpdaily.py为今日校园自动签到脚本
+library为chaoxing图书馆自动抢座位脚本
+music为自动下载网易云音乐脚本
